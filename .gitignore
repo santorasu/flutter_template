@@ -28,7 +28,6 @@
 .classpath
 .project
 .settings/
-.vscode/*
 
 # Flutter repo-specific
 /bin/cache/
@@ -146,3 +145,5 @@ app.*.symbols
 .fvm/
 .fvmrc
 
+config.bat
+node_modules
